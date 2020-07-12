@@ -1,0 +1,21 @@
+{
+  "name": "@jcansdale-test/dotnet-runtime-osx-x64",
+  "version": "1.0.0",
+  "description": ".NET Core 3.1 Runtime (v3.1.5) - macOS x64 Binaries!",
+  "main": "index.js",
+  "bin": "dotnet",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcansdale-test/dotnet-runtime.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcansdale-test/dotnet-runtime/issues"
+  },
+  "homepage": "https://github.com/jcansdale-test/dotnet-runtime#readme"
+}
