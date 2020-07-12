@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": ".NET Core 3.1 Runtime (v3.1.5) - macOS x64 Binaries!",
   "main": "index.js",
-  "bin": "dotnet",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
