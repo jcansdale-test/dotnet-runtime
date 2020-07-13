@@ -1,6 +1,6 @@
 {
   "name": "@jcansdale-test/dotnet-runtime-osx-x64",
-  "version": "1.0.0",
+  "version": "3.1.5",
   "description": ".NET Core 3.1 Runtime (v3.1.5) - macOS x64 Binaries!",
   "main": "index.js",
   "bin": "dotnet.js",
