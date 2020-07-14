@@ -1,7 +1,7 @@
 {
   "name": "@jcansdale-test/dotnet-runtime-linux-x64",
   "os": ["linux"],
-  "version": "3.1.5.1",
+  "version": "3.1.5-beta1",
   "description": ".NET Core 3.1 Runtime (v3.1.5) - Linux x64 Binaries!",
   "main": "index.js",
   "bin": "dotnet.js",
