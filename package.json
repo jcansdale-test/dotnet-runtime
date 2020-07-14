@@ -18,7 +18,7 @@
     "url": "https://github.com/jcansdale-test/dotnet-runtime/issues"
   },
   "homepage": "https://github.com/jcansdale-test/dotnet-runtime#readme",
-  "dependencies": {
+  "optionalDependencies": {
     "@jcansdale-test/dotnet-runtime-linux-x64": "^3.1.5",
     "@jcansdale-test/dotnet-runtime-osx-x64": "^3.1.5",
     "@jcansdale-test/dotnet-runtime-win-x64": "^3.1.5"
