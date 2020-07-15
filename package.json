@@ -1,7 +1,7 @@
 {
   "name": "@jcansdale-test/dotnet-runtime-win-x64",
   "os": ["win32"],
-  "version": "3.1.5.1",
+  "version": "3.1.5-beta1",
   "description": ".NET Core 3.1 Runtime (v3.1.5) - Windows x64 Binaries!",
   "main": "index.js",
   "bin": "dotnet.js",
