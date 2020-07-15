@@ -6,17 +6,11 @@ if (command === undefined) {
     process.exit(1)
 }
 
+console.log("frog")
+
 const { spawn } = require('child_process');
 
-const child = spawn(command, process.argv.slice(2));
-
-child.stdout.on('data', (data) => {
-  console.log(`${data}`);
-});
-
-child.stderr.on('data', (data) => {
-  console.error(`${data}`);
-});
+const child = spawn(command, process.argv.slice(2), { stdio: 'inherit' });
 
 child.on('close', (code) => {
   process.exit(code)
