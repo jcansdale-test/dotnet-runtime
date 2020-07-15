@@ -1,6 +1,6 @@
 {
   "name": "@jcansdale-test/dotnet-runtime",
-  "version": "3.1.5",
+  "version": "3.1.5-beta1",
   "description": ".NET Core 3.1 Runtime (v3.1.5)",
   "main": "index.js",
   "bin": "dotnet.js",
@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/jcansdale-test/dotnet-runtime#readme",
   "optionalDependencies": {
-    "@jcansdale-test/dotnet-runtime-linux-x64": "^3.1.5",
-    "@jcansdale-test/dotnet-runtime-osx-x64": "^3.1.5",
-    "@jcansdale-test/dotnet-runtime-win-x64": "^3.1.5"
+    "@jcansdale-test/dotnet-runtime-linux-x64": "3.1.5-beta1",
+    "@jcansdale-test/dotnet-runtime-osx-x64": "3.1.5-beta1",
+    "@jcansdale-test/dotnet-runtime-win-x64": "3.1.5-beta1"
   }
 }
