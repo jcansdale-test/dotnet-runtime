@@ -1,12 +1,10 @@
 #!/usr/bin/env node
 const command = require('./index')
-if (command === undefined) {
+if (!command) {
     let platform = process.platform
     console.error(`The ${platform} platform isn't currently supported.`)
     process.exit(1)
 }
-
-console.log("frog")
 
 const { spawn } = require('child_process');
 
